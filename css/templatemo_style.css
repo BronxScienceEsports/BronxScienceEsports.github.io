@@ -351,7 +351,7 @@ p {
 
 
 .what-we-do {
-  background-color: #fff;
+  background-color: #2b2b2b;
   padding-bottom: 80px;
 }
 
@@ -361,7 +361,7 @@ p {
 }
 
 .what-we-do .tabs .active .list-item {
-  background-color: #f2745f!important;
+  background-color: #36b36c!important;
   color: #fff!important;
 }
 
@@ -413,7 +413,7 @@ p {
 }
 
 .what-we-do .tab-content-services .left-text p {
-  color: #7a7a7a;
+  color: #fff;
 }
 
 .what-we-do .tab-content-services .left-text .primary-button {
@@ -473,7 +473,7 @@ p {
 
 
 #blog {
-  background-color: #f4f4f4;
+  background-color: #2b2b2b;
 }
 
 #blog .section-heading {
@@ -511,7 +511,7 @@ p {
 }
 
 #blog .tabs .active {
-  background-color: #46bae2;
+  background-color: #36b36c;
   color: #fff!important;
 }
 #blog .tabs .active .info-post li {
